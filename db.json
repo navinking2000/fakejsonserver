@@ -1,1 +1,6 @@
-{"id": 1, "name": "yim" }
+{
+  "users": [
+    {"id": 1, "name": "yim"},
+    {"id": 2, "name": "ple"},   
+    ]
+}
