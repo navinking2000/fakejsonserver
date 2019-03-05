@@ -1,6 +1,6 @@
 {
   "users": [
-    {"id": 1, "name": "yim"},
-    {"id": 2, "name": "ple"} 
+    {"id": 1, "name": "yim", "email": "navin@ntpc.com", "username": "user1", "password": "pass1"},
+    {"id": 2, "name": "ple", "email": "ple@ntpc.com", "username": "user2", "password": "pass2"}
     ]
 }
