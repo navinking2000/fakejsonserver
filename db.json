@@ -3,8 +3,8 @@
     {"id": 1, "name": "yim", "email": "navin@ntpc.com", "username": "user1", "password": "pass1"},
     {"id": 2, "name": "ple", "email": "ple@ntpc.com", "username": "user2", "password": "pass2"}
   ],
-  "generator": [
-    {"id": "1", "name": "G1"},
-    {"id": "2", "name": "G2"}
+  "generators": [
+    {"id": 1, "name": "G1"},
+    {"id": 2, "name": "G2"}
   ]
 }
