@@ -4,7 +4,7 @@
     {"id": 2, "name": "ple", "email": "ple@ntpc.com", "username": "user2", "password": "pass2"}
   ],
   "generator": [
-    {"id": 1, "name": "G1"},
-    {"id": 2, "name": "G2"}
+    {"id": "1", "name": "G1"},
+    {"id": "2", "name": "G2"}
   ]
 }
