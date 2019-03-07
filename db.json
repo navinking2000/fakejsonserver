@@ -1,7 +1,22 @@
 {
   "users": [
-    {"id": 1, "name": "yim", "email": "navin@ntpc.com", "username": "user1", "password": "pass1"},
-    {"id": 2, "name": "ple", "email": "ple@ntpc.com", "username": "user2", "password": "pass2"}
+    {
+      "user_id": 1, "user_group_id": 1, "firstname": "yim", "lastname": "", "email": "navin@ntpc.com",
+      "username": "user1", "password": "pass1", "image_file_name": "", "image_file_path": "", "user_active": 1
+    },
+    {
+      "user_id": 2, "user_group_id": 2, "firstname": "ple", "lastname": "", "email": "ple@ntpc.com",
+      "username": "user2", "password": "pass2", "image_file_name": "", "image_file_path": "", "user_active": 1
+    },
+    {
+      "user_id": 3, "user_group_id": 3, "firstname": "muay", "lastname": "", "email": "muay@ntpc.com",
+      "username": "user3", "password": "pass3", "image_file_name": "", "image_file_path": "", "user_active": 1
+    }    
+  ],
+  "user_group": [
+    {"id": 1, "name": "SCE"},
+    {"id": 1, "name": "SCO"},
+    {"id": 1, "name": "Viewer"}
   ],
   "generators": [
     {"id": 1, "name": "FU1"},
@@ -13,13 +28,13 @@
     {"id": 7, "name": "STATION"}
   ],
   "gauge": [
-    {"gauge_id": 1, "gauge_name": "Check busbar (nuts, damage, paint….)"},
-    {"gauge_id": 2, "gauge_name": "Check 3 water fire circuit for transformers"},
-    {"gauge_id": 3, "gauge_name": "Check air conditioning"},
-    {"gauge_id": 4, "gauge_name": "Check lights"},
-    {"gauge_id": 5, "gauge_name": "Generator is running ? (Y/N)"},
-    {"gauge_id": 6, "gauge_name": "If yes since how many hour?"},
-    {"gauge_id": 7, "gauge_name": "Rotating time"},
+    {"gauge_id": 1, "gauge_name": "Check busbar (nuts, damage, paint….)", "unit": ""},
+    {"gauge_id": 2, "gauge_name": "Check 3 water fire circuit for transformers", "unit": ""},
+    {"gauge_id": 3, "gauge_name": "Check air conditioning", "unit": ""},
+    {"gauge_id": 4, "gauge_name": "Check lights", "unit": ""},
+    {"gauge_id": 5, "gauge_name": "Generator is running ? (Y/N)", "unit": ""},
+    {"gauge_id": 6, "gauge_name": "If yes since how many hour?", "unit": "hours"},
+    {"gauge_id": 7, "gauge_name": "Rotating time", "unit": "day/hour"},
     {"gauge_id": 8, "gauge_name": "Unit start counts"}
   ],
   "gauge_control_option": [
