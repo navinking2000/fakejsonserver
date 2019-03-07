@@ -4,7 +4,31 @@
     {"id": 2, "name": "ple", "email": "ple@ntpc.com", "username": "user2", "password": "pass2"}
   ],
   "generators": [
-    {"id": 1, "name": "G1"},
-    {"id": 2, "name": "G2"}
-  ]
+    {"id": 1, "name": "FU1"},
+    {"id": 2, "name": "FU2"},
+    {"id": 3, "name": "PU1"},
+    {"id": 4, "name": "PU2"},
+    {"id": 5, "name": "PU3"},
+    {"id": 6, "name": "PU4"},
+    {"id": 7, "name": "STATION"}
+  ],
+  "gauge": [
+    {"gauge_id": 1, "gauge_name": "Check busbar (nuts, damage, paint….)"},
+    {"gauge_id": 2, "gauge_name": "Check 3 water fire circuit for transformers"},
+    {"gauge_id": 3, "gauge_name": "Check air conditioning"},
+    {"gauge_id": 4, "gauge_name": "Check lights"},
+    {"gauge_id": 5, "gauge_name": "Generator is running ? (Y/N)"},
+    {"gauge_id": 6, "gauge_name": "If yes since how many hour?"},
+    {"gauge_id": 7, "gauge_name": "Rotating time"},
+    {"gauge_id": 8, "gauge_name": "Unit start counts"}
+  ],
+  "gauge_control_option": [
+    {"gauge_control_option_id": 1, "gauge_control_option_type": "textbox", "gauge_control_option_value_type": "number"},    
+    {"gauge_control_option_id": 2, "gauge_control_option_type": "textbox", "gauge_control_option_value_type": "text"},    
+    {"gauge_control_option_id": 3, "gauge_control_option_type": "radiobox", "gauge_control_option_value_type": ""}
+  ],
+  "location": [
+    {"location_id": 1, "location_name": "Floor 183", "location_level": "", "location_parent_id": "", "generator_id": 1},    
+    {"location_id": 2, "location_name": "Local control room FU 177,70", "location_level": "", "location_parent_id": "", "generator_id": 1},    
+  ],
 }
