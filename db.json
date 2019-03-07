@@ -13,7 +13,7 @@
       "username": "user3", "password": "pass3", "image_file_name": "", "image_file_path": "", "user_active": 1
     }    
   ],
-  "user_group": [
+  "user_groups": [
     {"id": 1, "name": "SCE"},
     {"id": 1, "name": "SCO"},
     {"id": 1, "name": "Viewer"}
@@ -27,7 +27,7 @@
     {"generator_id": 6, "generator_name": "PU4"},
     {"generator_id": 7, "generator_name": "STATION"}
   ],
-  "gauge": [
+  "gauges": [
     {"gauge_id": 1, "gauge_name": "Check busbar (nuts, damage, paint….)", "unit": ""},
     {"gauge_id": 2, "gauge_name": "Check 3 water fire circuit for transformers", "unit": ""},
     {"gauge_id": 3, "gauge_name": "Check air conditioning", "unit": ""},
@@ -37,12 +37,12 @@
     {"gauge_id": 7, "gauge_name": "Rotating time", "unit": "day/hour"},
     {"gauge_id": 8, "gauge_name": "Unit start counts"}
   ],
-  "gauge_control_option": [
+  "gauge_control_options": [
     {"gauge_control_option_id": 1, "gauge_control_option_type": "textbox", "gauge_control_option_value_type": "number"},    
     {"gauge_control_option_id": 2, "gauge_control_option_type": "textbox", "gauge_control_option_value_type": "text"},    
     {"gauge_control_option_id": 3, "gauge_control_option_type": "radiobox", "gauge_control_option_value_type": ""}
   ],
-  "location": [
+  "locations": [
     {"location_id": 1, "location_name": "Floor 183", "location_level": "", "location_parent_id": "", "generator_id": 1},    
     {"location_id": 2, "location_name": "Local control room FU 177,70", "location_level": "", "location_parent_id": "", "generator_id": 1},    
   ],
