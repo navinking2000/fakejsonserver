@@ -41,51 +41,5 @@
     {"gauge_control_option_id": 1, "gauge_control_option_type": "textbox", "gauge_control_option_value_type": "number"},    
     {"gauge_control_option_id": 2, "gauge_control_option_type": "textbox", "gauge_control_option_value_type": "text"},    
     {"gauge_control_option_id": 3, "gauge_control_option_type": "radiobox", "gauge_control_option_value_type": ""}
-  ],
-  "locations": [
-    {"location_id": 1, "location_name": "Floor 183", "location_level": "", "location_parent_id": "", "generator_id": 1},    
-    {"location_id": 2, "location_name": "Local control room FU 177,70", "location_level": "", "location_parent_id": "", "generator_id": 1}
-  ],
-  "measured_forms": [
-    {
-      "measured_form_id": 1, "location_id": 1, "gauge_id": 1, "gauge_order": 1, "gauge_combine_id": 0, "gauge_parent_id": 0,
-      "gauge_control_option_id": 0, "form_alarm_high": 0, "form_alarm_low": 0,
-      "form_option_value1": "", "form_option_value2": "", "form_option_value3": "", "form_option_value4": ""    
-    },
-    {
-      "measured_form_id": 2, "location_id": 1, "gauge_id": 2, "gauge_order": 2, "gauge_combine_id": 0, "gauge_parent_id": 0,
-      "gauge_control_option_id": 0, "form_alarm_high": 0, "form_alarm_low": 0,
-      "form_option_value1": "", "form_option_value2": "", "form_option_value3": "", "form_option_value4": ""    
-    },
-    {
-      "measured_form_id": 3, "location_id": 2, "gauge_id": 3, "gauge_order": 1, "gauge_combine_id": 0, "gauge_parent_id": 0,
-      "gauge_control_option_id": 0, "form_alarm_high": 0, "form_alarm_low": 0,
-      "form_option_value1": "", "form_option_value2": "", "form_option_value3": "", "form_option_value4": ""    
-    },
-    {
-      "measured_form_id": 4, "location_id": 2, "gauge_id": 4, "gauge_order": 2, "gauge_combine_id": 0, "gauge_parent_id": 0,
-      "gauge_control_option_id": 0, "form_alarm_high": 0, "form_alarm_low": 0,
-      "form_option_value1": "", "form_option_value2": "", "form_option_value3": "", "form_option_value4": ""    
-    },
-    {
-      "measured_form_id": 5, "location_id": 2, "gauge_id": 5, "gauge_order": 3, "gauge_combine_id": 0, "gauge_parent_id": 0,
-      "gauge_control_option_id": 0, "form_alarm_high": 0, "form_alarm_low": 0,
-      "form_option_value1": "", "form_option_value2": "", "form_option_value3": "", "form_option_value4": ""    
-    },
-    {
-      "measured_form_id": 6, "location_id": 2, "gauge_id": 6, "gauge_order": 4, "gauge_combine_id": 0, "gauge_parent_id": 0,
-      "gauge_control_option_id": 0, "form_alarm_high": 0, "form_alarm_low": 0,
-      "form_option_value1": "", "form_option_value2": "", "form_option_value3": "", "form_option_value4": ""    
-    },
-    {
-      "measured_form_id": 7, "location_id": 2, "gauge_id": 7, "gauge_order": 5, "gauge_combine_id": 0, "gauge_parent_id": 0,
-      "gauge_control_option_id": 0, "form_alarm_high": 0, "form_alarm_low": 0,
-      "form_option_value1": "", "form_option_value2": "", "form_option_value3": "", "form_option_value4": ""    
-    },
-    {
-      "measured_form_id": 8, "location_id": 2, "gauge_id": 8, "gauge_order": 6, "gauge_combine_id": 0, "gauge_parent_id": 0,
-      "gauge_control_option_id": 0, "form_alarm_high": 0, "form_alarm_low": 0,
-      "form_option_value1": "", "form_option_value2": "", "form_option_value3": "", "form_option_value4": ""    
-    }
   ]
 }
