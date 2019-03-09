@@ -86,7 +86,6 @@
       "measured_form_id": 8, "location_id": 2, "gauge_id": 8, "gauge_order": 6, "gauge_combine_id": 0, "gauge_parent_id": 0,
       "gauge_control_option_id": 0, "form_alarm_high": 0, "form_alarm_low": 0,
       "form_option_value1": "", "form_option_value2": "", "form_option_value3": "", "form_option_value4": ""    
-    },
-    
+    }
   ]
 }
