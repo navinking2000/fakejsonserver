@@ -44,7 +44,7 @@
   ],
   "locations": [
     {"location_id": 1, "location_name": "Floor 183", "location_level": "", "location_parent_id": "", "generator_id": 1},    
-    {"location_id": 2, "location_name": "Local control room FU 177,70", "location_level": "", "location_parent_id": "", "generator_id": 1},    
+    {"location_id": 2, "location_name": "Local control room FU 177,70", "location_level": "", "location_parent_id": "", "generator_id": 1}
   ],
   "measured_forms": [
     {
